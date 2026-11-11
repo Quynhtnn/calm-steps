@@ -1,0 +1,88 @@
+[
+  {
+    "item": 3,
+    "filename": "figma-evidence1.png",
+    "status": "capture_required"
+  },
+  {
+    "item": 4,
+    "filename": "figma-evidence2.png",
+    "status": "capture_required"
+  },
+  {
+    "item": 6,
+    "filename": "signup_screen_evidence.png",
+    "status": "capture_required"
+  },
+  {
+    "item": 7,
+    "filename": "signup_error.png",
+    "status": "capture_required"
+  },
+  {
+    "item": 9,
+    "filename": "login_screen_evidence.png",
+    "status": "capture_required"
+  },
+  {
+    "item": 10,
+    "filename": "login_error.png",
+    "status": "capture_required"
+  },
+  {
+    "item": 12,
+    "filename": "home-screen-evidence.png",
+    "status": "capture_required"
+  },
+  {
+    "item": 14,
+    "filename": "evidence-detail-navigation.png",
+    "status": "capture_required"
+  },
+  {
+    "item": 15,
+    "filename": "evidence-detail-screen.png",
+    "status": "capture_required"
+  },
+  {
+    "item": 17,
+    "filename": "evidence-persistence.png",
+    "status": "capture_required"
+  },
+  {
+    "item": 18,
+    "filename": "evidence-integrateScreen-persistence.png",
+    "status": "capture_required"
+  },
+  {
+    "item": 20,
+    "filename": "evidence-api-ux.png",
+    "status": "capture_required"
+  },
+  {
+    "item": 22,
+    "filename": "evidence-menu-icon.png",
+    "status": "capture_required"
+  },
+  {
+    "item": 23,
+    "filename": "evidence-menu-items.png",
+    "status": "capture_required"
+  },
+  {
+    "item": 25,
+    "filename": "evidence-settings-screen.png",
+    "status": "capture_required"
+  },
+  {
+    "item": 27,
+    "filename": "evidence-notification-configure.png",
+    "status": "capture_required"
+  },
+  {
+    "item": 28,
+    "filename": "evidence-notification-alert.png",
+    "status": "capture_required"
+  }
+]
+
